@@ -1,9 +1,9 @@
 
-def introduction(name)
+def introduction(Josh)
   puts "Hi, may name is #{name}."
 end
 
-introduction(Josh)
+introduction
 
 
 
