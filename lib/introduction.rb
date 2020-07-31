@@ -1,4 +1,4 @@
-name = Josh
+
 
 def introduction (name)
   puts "Hi, my name is #{name}."
@@ -6,7 +6,7 @@ def introduction (name)
 end
 
 
-introduction
+introduction (Josh)
 
 
 
